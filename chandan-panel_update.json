@@ -13,7 +13,8 @@
     {"name": "Rapid Core Brutal - Root", "url": "https://google.com"},
     {"name": "Unseen Mods - Root", "url": "https://google.com"},
     {"name": "Xreg Root", "url": "https://google.com"},
-    {"name": "Crack Master - Root", "url": "https://google.com"}
+    {"name": "Crack Master - Root", "url": "https://google.com"}, 
+    {"name": "New Root Item Name", "url": "https://your-download-link.com"}
   ],
   "non_root_items": [
     {"name": "ABCD Wire [Non Root]", "url": "https://google.com"},
