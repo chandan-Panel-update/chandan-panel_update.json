@@ -1,14 +1,37 @@
 {
   "updated_file_name": "haxx pro",
-  "update_message": "2.9 update",
+  "update_message": "2.0 update",
   "download_link": "https://www.google.com",
+  "category_title": "SELECT CATEGORY",
+  "category_subtitle": "SELECT A CATEGORY TO CONTINUE",
+  "category_config": {
+    "ios_title": "iOS",
+    "ios_subtitle": "Apple / iOS files",
+    "ios_list_title": "iOS PRODUCTS",
+    "root_title": "ROOT",
+    "root_subtitle": "Root device files",
+    "root_list_title": "ROOT PRODUCTS",
+    "non_root_title": "NON ROOT",
+    "non_root_subtitle": "Non-root files",
+    "non_root_list_title": "NON ROOT PRODUCTS",
+    "setup_title": "SETUP TUTORIAL",
+    "setup_subtitle": "Open setup guide",
+    "setup_url": "https://whatsapp.com/channel/0029VbDy3YYAu3aPdtpF9G3n"
+  },
+  "main_menu": {
+    "check_updates": "CHECK UPDATES",
+    "download_latest_files": "DOWNLOAD LATEST FILES",
+    "qr_code": "QR CODE",
+    "purchase_key_renew": "PURCHASE KEY & RENEW",
+    "purchase_key_url": "https://wa.me/918105914742"
+  },
   "root_items": [
     {
       "name": "Haxx Cker Pro - Root",
-      "subtitle": "2.9 update",
+      "subtitle": "",
       "updates": [
         {
-          "title": "haxxx apk",
+          "title": "Haxx Cker Pro - Root",
           "url": "https://google.com"
         }
       ]
@@ -79,196 +102,6 @@
       "updates": [
         {
           "title": "Rapid Core Brutal - Root",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Unseen Mods - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Unseen Mods - Root",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Xreg Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Xreg Root",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Crack Master - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Crack Master - Root",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "New Root Item Name",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "New Root Item Name",
-          "url": "https://your-download-link.com"
-        }
-      ]
-    }
-  ],
-  "non_root_items": [
-    {
-      "name": "ABCD Wire [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "ABCD Wire [Non Root]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Drip Wire [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Drip Wire [Non Root]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "AimHxxx[Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "AimHxxx[Non Root]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Proxy Silent chxxx [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Proxy Silent chxxx [Non Root]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Xreg ApkMod [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Xreg ApkMod [Non Root]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "HG [ Non Root ]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "HG [ Non Root ]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "ABCD Panel ApkMod [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "ABCD Panel ApkMod [Non Root]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "BalaMod Android [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "BalaMod Android [Non Root]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Prime Hook - Non root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Prime Hook - Non root",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Pato team non root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Pato team non root",
-          "url": "https://google.com"
-        }
-      ]
-    }
-  ],
-  "ios_items": [
-    {
-      "name": "MIGUL - Monite iOS [PRO]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "MIGUL - Monite iOS [PRO]",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Xreg iOS",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Xreg iOS",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Aimxxxx IOS",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Aimxxxx IOS",
-          "url": "https://google.com"
-        }
-      ]
-    },
-    {
-      "name": "Drip Wire iOS",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Drip Wire iOS",
-          "url": "https://google.com"
-        }
-      ]
-    }
-  ]
-}          "title": "Rapid Core Brutal - Root",
           "url": "https://google.com"
         }
       ]
