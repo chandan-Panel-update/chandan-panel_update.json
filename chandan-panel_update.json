@@ -1,16 +1,16 @@
 {
-  "updated_file_name": "TEST-999",
-  "update_message": "google.com",
+  "updated_file_name": "TEST-99",
+  "update_message": "pakuda",
   "download_link": "google.com",
   "category_title": "SELECT CATEGORY",
-  "category_subtitle": "SELECT A CATEGORY TO CONTINUE",
+  "category_subtitle": "choose your item",
   "category_config": {
     "ios_title": "iOS",
-    "ios_subtitle": "Apple / iOS files",
-    "ios_list_title": "iOS PRODUCTS",
+    "ios_subtitle": "Apple / iOS panel",
+    "ios_list_title": "iOS PANEL",
     "root_title": "ROOT",
-    "root_subtitle": "Root device files",
-    "root_list_title": "ROOT PRODUCTS",
+    "root_subtitle": "Root Panel",
+    "root_list_title": "rooted panels",
     "non_root_title": "NON ROOT",
     "non_root_subtitle": "Non-root files",
     "non_root_list_title": "NON ROOT PRODUCTS",
@@ -33,7 +33,16 @@
         {
           "title": "Haxx Cker Pro - Root",
           "url": "https://google.com"
-        }
+        },
+        { "title": "le download",
+          "url":  "https://google.com"
+        },
+        { "title":  " ha download ",
+           "url":  "https://google.com"
+        },
+       { "title": "plt download ",
+          "url":"https://google.com"
+       }   
       ]
     },
     {
