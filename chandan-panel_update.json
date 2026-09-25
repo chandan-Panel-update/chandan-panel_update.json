@@ -1,12 +1,12 @@
 {
-  "updated_file_name": "TEST-996",
+  "updated_file_name": "TEST-999",
   "update_message": "পাকুদাসা",
   "download_link": "google.com",
   "category_title": "SELECT CATEGORY",
   "category_subtitle": "choose your item",
   "category_config": {
     "ios_title": "iOS",
-    "ios_subtitle": "Apple / iOS panels",
+    "ios_subtitle": "Apple / iOS panel",
     "ios_list_title": "iOS PANELL",
     "root_title": "ROOT",
     "root_subtitle": "Root PaneLl",
@@ -36,7 +36,7 @@
   "root_items": [
     {
       "name": "Haxx Cker Pro - Root",
-      "subtitle": "best panel king",
+      "subtitle": "",
       "updates": [
         {
           "title": "Haxx Cker Pro - Root",
@@ -360,5 +360,47 @@
   "qr_popup": {
     "title": "PAYMENT QR",
     "hint": "Tap outside to close"
+  },
+  "status": "o",
+  "app_close": {
+    "title": "APP CLOSED",
+    "message": "Server maintenance চলছে।",
+    "button": "OK",
+    "close_app": true
+  },
+  "colors": {
+    "button_text": "#FFFFFF",
+    "status_system": "#FFFFFF",
+    "status_online": "#43F27C",
+    "status_offline": "#FF3045",
+    "status_secure": "#FFFFFF",
+    "category_title": "#FFFFFF",
+    "category_subtitle": "#BBD0EA",
+    "category_card_title": "#FFFFFF",
+    "category_card_subtitle": "#BBD0EA",
+    "product_title": "#FFFFFF",
+    "product_subtitle": "#8FE6FF",
+    "update_title": "#FFFFFF",
+    "update_subtitle": "#8FE6FF",
+    "update_popup_title": "#FFFFFF",
+    "update_popup_name": "#7BE7FF",
+    "update_popup_message": "#C8D8EA",
+    "update_popup_close": "#FFFFFF",
+    "update_popup_download": "#69FFB7",
+    "checking_title": "#FFFFFF",
+    "checking_subtitle": "#BBD0EA",
+    "checking_indicator": "#FFD23F",
+    "qr_title": "#FFFFFF",
+    "qr_hint": "#BBD0EA",
+    "no_internet_title": "#FFFFFF",
+    "no_internet_message": "#BBD0EA",
+    "action_text": "#7BE7FF",
+    "new_update_indicator": "#00FF66"
+  },
+  "new_update_indicator": {
+    "enabled": true,
+    "symbol": "◆",
+    "color": "#00FF66",
+    "size": 9
   }
 }
