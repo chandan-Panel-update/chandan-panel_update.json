@@ -16,14 +16,22 @@
     "non_root_list_title": "NON ROOT PRODUCTS",
     "setup_title": "SETUP TUTORIAL",
     "setup_subtitle": "Open setup guide",
-    "setup_url": "https://whatsapp.com/channel/0029VbDy3YYAu3aPdtpF9G3n"
+    "setup_url": "https://whatsapp.com/channel/0029VbDy3YYAu3aPdtpF9G3n",
+    "ios_list_subtitle": "Tap a product to view its updates/files",
+    "root_list_subtitle": "Tap a product to view its updates/files",
+    "non_root_list_subtitle": "Tap a product to view its updates/files",
+    "product_row_subtitle": "TAP TO VIEW UPDATES"
   },
   "main_menu": {
     "check_updates": "CHECK UPDATES",
     "download_latest_files": "DOWNLOAD LATEST FILES",
     "qr_code": "QR CODE",
     "purchase_key_renew": "PURCHASE KEY & RENEW",
-    "purchase_key_url": "https://wa.me/918105914742"
+    "purchase_key_url": "https://wa.me/918105914742",
+    "check_updates_enabled": true,
+    "download_latest_files_enabled": true,
+    "qr_code_enabled": true,
+    "purchase_key_renew_enabled": true
   },
   "root_items": [
     {
@@ -32,17 +40,24 @@
       "updates": [
         {
           "title": "Haxx Cker Pro - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         },
-        { "title": "lol download",
-          "url":  "https://google.com"
+        {
+          "title": "lol download",
+          "url": "https://google.com",
+          "subtitle": ""
         },
-        { "title":  " হল download ",
-           "url":  "https://google.com"
+        {
+          "title": " হল download ",
+          "url": "https://google.com",
+          "subtitle": ""
         },
-       { "title": "প্ল্টি download ",
-          "url":"https://google.com"
-       }   
+        {
+          "title": "প্ল্টি download ",
+          "url": "https://google.com",
+          "subtitle": ""
+        }
       ]
     },
     {
@@ -51,7 +66,8 @@
       "updates": [
         {
           "title": "Drip Client - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -61,7 +77,8 @@
       "updates": [
         {
           "title": "HG - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -71,7 +88,8 @@
       "updates": [
         {
           "title": "Br Mod - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -81,7 +99,8 @@
       "updates": [
         {
           "title": "Angry Mod - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -91,7 +110,8 @@
       "updates": [
         {
           "title": "Silent xxxxxx Root - Safe",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -101,7 +121,8 @@
       "updates": [
         {
           "title": "Rapid Core - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -111,7 +132,8 @@
       "updates": [
         {
           "title": "Rapid Core Brutal - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -121,7 +143,8 @@
       "updates": [
         {
           "title": "Unseen Mods - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -131,7 +154,8 @@
       "updates": [
         {
           "title": "Xreg Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -141,7 +165,8 @@
       "updates": [
         {
           "title": "Crack Master - Root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -151,7 +176,8 @@
       "updates": [
         {
           "title": "New Root Item Name",
-          "url": "https://your-download-link.com"
+          "url": "https://your-download-link.com",
+          "subtitle": ""
         }
       ]
     }
@@ -163,7 +189,8 @@
       "updates": [
         {
           "title": "ABCD Wire [Non Root]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -173,7 +200,8 @@
       "updates": [
         {
           "title": "Drip Wire [Non Root]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -183,7 +211,8 @@
       "updates": [
         {
           "title": "AimHxxx[Non Root]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -193,7 +222,8 @@
       "updates": [
         {
           "title": "Proxy Silent chxxx [Non Root]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -203,7 +233,8 @@
       "updates": [
         {
           "title": "Xreg ApkMod [Non Root]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -213,7 +244,8 @@
       "updates": [
         {
           "title": "HG [ Non Root ]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -223,7 +255,8 @@
       "updates": [
         {
           "title": "ABCD Panel ApkMod [Non Root]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -233,7 +266,8 @@
       "updates": [
         {
           "title": "BalaMod Android [Non Root]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -243,7 +277,8 @@
       "updates": [
         {
           "title": "Prime Hook - Non root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -253,7 +288,8 @@
       "updates": [
         {
           "title": "Pato team non root",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     }
@@ -265,7 +301,8 @@
       "updates": [
         {
           "title": "MIGUL - Monite iOS [PRO]",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -275,7 +312,8 @@
       "updates": [
         {
           "title": "Xreg iOS",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -285,7 +323,8 @@
       "updates": [
         {
           "title": "Aimxxxx IOS",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     },
@@ -295,9 +334,31 @@
       "updates": [
         {
           "title": "Drip Wire iOS",
-          "url": "https://google.com"
+          "url": "https://google.com",
+          "subtitle": ""
         }
       ]
     }
-  ]
+  ],
+  "status_bar": {
+    "system": "SYSTEM",
+    "online": "ONLINE",
+    "offline": "OFFLINE",
+    "slow": "SLOW | SERVER RESPONSE",
+    "secure": "SECURE"
+  },
+  "update_popup": {
+    "enabled": true,
+    "title": "NEW UPDATE AVAILABLE",
+    "close_text": "CLOSE",
+    "download_text": "DOWNLOAD NOW"
+  },
+  "checking_dialog": {
+    "title": "CHECKING FOR UPDATES",
+    "subtitle": "Please wait while checking for updates."
+  },
+  "qr_popup": {
+    "title": "PAYMENT QR",
+    "hint": "Tap outside to close"
+  }
 }
