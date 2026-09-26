@@ -1,4 +1,23 @@
 {
+  "app_control": {
+    "status": "C",
+    "close_message": "APP IS CURRENTLY CLOSED. PLEASE TRY AGAIN LATER.",
+    "maintenance_enabled": false,
+    "maintenance_message": "APP IS UNDER MAINTENANCE. PLEASE TRY AGAIN LATER."
+  },
+  "colors": {
+    "main_button_text": "#FFFFFF",
+    "status_system": "#FFFFFF",
+    "status_online": "#43F27C",
+    "status_offline": "#FF3045",
+    "status_slow": "#FFD23F",
+    "status_secure": "#FFFFFF",
+    "network_dot_1_3": "#FF9D2E",
+    "network_dot_4_6": "#FFD23F",
+    "network_dot_7_9": "#43F27C",
+    "network_dot_inactive": "#26313D",
+    "network_dot_offline": "#FF3045"
+  },
   "updated_file_name": "TEST-999",
   "update_message": "পাকুদাসা",
   "download_link": "google.com",
@@ -360,47 +379,5 @@
   "qr_popup": {
     "title": "PAYMENT QR",
     "hint": "Tap outside to close"
-  },
-  "status": "o",
-  "app_close": {
-    "title": "APP CLOSED",
-    "message": "Server maintenance চলছে।",
-    "button": "OK",
-    "close_app": true
-  },
-  "colors": {
-    "button_text": "#FFFFFF",
-    "status_system": "#FFFFFF",
-    "status_online": "#43F27C",
-    "status_offline": "#FF3045",
-    "status_secure": "#FFFFFF",
-    "category_title": "#FFFFFF",
-    "category_subtitle": "#BBD0EA",
-    "category_card_title": "#FFFFFF",
-    "category_card_subtitle": "#BBD0EA",
-    "product_title": "#FFFFFF",
-    "product_subtitle": "#8FE6FF",
-    "update_title": "#FFFFFF",
-    "update_subtitle": "#8FE6FF",
-    "update_popup_title": "#FFFFFF",
-    "update_popup_name": "#7BE7FF",
-    "update_popup_message": "#C8D8EA",
-    "update_popup_close": "#FFFFFF",
-    "update_popup_download": "#69FFB7",
-    "checking_title": "#FFFFFF",
-    "checking_subtitle": "#BBD0EA",
-    "checking_indicator": "#FFD23F",
-    "qr_title": "#FFFFFF",
-    "qr_hint": "#BBD0EA",
-    "no_internet_title": "#FFFFFF",
-    "no_internet_message": "#BBD0EA",
-    "action_text": "#7BE7FF",
-    "new_update_indicator": "#00FF66"
-  },
-  "new_update_indicator": {
-    "enabled": true,
-    "symbol": "◆",
-    "color": "#00FF66",
-    "size": 9
   }
 }
