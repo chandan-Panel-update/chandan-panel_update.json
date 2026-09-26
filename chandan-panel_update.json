@@ -5,6 +5,443 @@
     "maintenance_enabled": false,
     "maintenance_message": "APP IS UNDER MAINTENANCE. PLEASE TRY AGAIN LATER."
   },
+  "update_popup": {
+    "enabled": true,
+    "title": "NEW UPDATE AVAILABLE",
+    "close_text": "CLOSE",
+    "download_text": "DOWNLOAD NOW"
+  },
+  "checking_dialog": {
+    "title": "CHECKING FOR UPDATES",
+    "subtitle": "Please wait while checking for updates."
+  },
+  "select_category": {
+    "title": "SELECT CATEGORY",
+    "subtitle": "choose your item",
+    "colors": {
+      "title": "#FFFFFF",
+      "subtitle": "#8FA8C7",
+      "button_text": "#FFFFFF",
+      "button_border": "#00D9FF",
+      "button_accent": "#00D9FF"
+    },
+    "buttons": {
+      "ios": {
+        "title": "iOS",
+        "subtitle": "Apple / iOS panel"
+      },
+      "root": {
+        "title": "ROOT",
+        "subtitle": "Root PaneLl"
+      },
+      "non_root": {
+        "title": "NON ROOT",
+        "subtitle": "Non-root files"
+      },
+      "setup_tutorial": {
+        "title": "SETUP TUTORIAL",
+        "subtitle": "Open setup guide",
+        "url": "https://whatsapp.com/channel/0029VbDy3YYAu3aPdtpF9G3n"
+      }
+    }
+  },
+  "main_menu": {
+    "check_updates": "CHECK UPDATES",
+    "download_latest_files": "DOWNLOAD LATEST FILES",
+    "qr_code": "QR CODE",
+    "purchase_key_renew": "PURCHASE KEY & RENEW",
+    "purchase_key_url": "https://wa.me/918105914742",
+    "check_updates_enabled": true,
+    "download_latest_files_enabled": true,
+    "qr_code_enabled": true,
+    "purchase_key_renew_enabled": true
+  },
+  "root_product_list": {
+    "title": "rooted panels",
+    "subtitle": "Tap a product to view its updates/files",
+    "colors": {
+      "title": "#FFFFFF",
+      "subtitle": "#8FA8C7",
+      "product_name": "#FFFFFF",
+      "product_subtitle": "#8FA8C7",
+      "product_border": "#00D9FF",
+      "product_accent": "#00D9FF",
+      "download_name": "#FFFFFF",
+      "download_subtitle": "#8FA8C7",
+      "download_border": "#00D9FF",
+      "download_accent": "#00D9FF",
+      "popup_title": "#FFFFFF",
+      "popup_subtitle": "#8FA8C7",
+      "popup_border": "#00D9FF",
+      "popup_accent": "#00D9FF",
+      "row_line": "#26313D"
+    },
+    "products": [
+      {
+        "name": "Haxx Cker Pro - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Haxx Cker Pro - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          },
+          {
+            "name": "lol download",
+            "subtitle": "",
+            "link": "https://google.com"
+          },
+          {
+            "name": " হল download ",
+            "subtitle": "",
+            "link": "https://google.com"
+          },
+          {
+            "name": "প্ল্টি download ",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Drip Client - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Drip Client - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "HG - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "HG - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Br Mod - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Br Mod - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Angry Mod - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Angry Mod - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Silent xxxxxx Root - Safe",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Silent xxxxxx Root - Safe",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Rapid Core - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Rapid Core - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Rapid Core Brutal - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Rapid Core Brutal - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Unseen Mods - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Unseen Mods - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Xreg Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Xreg Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Crack Master - Root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Crack Master - Root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "New Root Item Name",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "New Root Item Name",
+            "subtitle": "",
+            "link": "https://your-download-link.com"
+          }
+        ]
+      }
+    ]
+  },
+  "non_root_product_list": {
+    "title": "NON ROOT PRODUCTS",
+    "subtitle": "Tap a product to view its updates/files",
+    "colors": {
+      "title": "#FFFFFF",
+      "subtitle": "#8FA8C7",
+      "product_name": "#FFFFFF",
+      "product_subtitle": "#8FA8C7",
+      "product_border": "#00D9FF",
+      "product_accent": "#00D9FF",
+      "download_name": "#FFFFFF",
+      "download_subtitle": "#8FA8C7",
+      "download_border": "#00D9FF",
+      "download_accent": "#00D9FF",
+      "popup_title": "#FFFFFF",
+      "popup_subtitle": "#8FA8C7",
+      "popup_border": "#00D9FF",
+      "popup_accent": "#00D9FF",
+      "row_line": "#26313D"
+    },
+    "products": [
+      {
+        "name": "ABCD Wire [Non Root]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "ABCD Wire [Non Root]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Drip Wire [Non Root]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Drip Wire [Non Root]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "AimHxxx[Non Root]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "AimHxxx[Non Root]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Proxy Silent chxxx [Non Root]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Proxy Silent chxxx [Non Root]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Xreg ApkMod [Non Root]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Xreg ApkMod [Non Root]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "HG [ Non Root ]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "HG [ Non Root ]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "ABCD Panel ApkMod [Non Root]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "ABCD Panel ApkMod [Non Root]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "BalaMod Android [Non Root]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "BalaMod Android [Non Root]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Prime Hook - Non root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Prime Hook - Non root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Pato team non root",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Pato team non root",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      }
+    ]
+  },
+  "ios_product_list": {
+    "title": "iOS PANELL",
+    "subtitle": "Tap a product to view its updates/files",
+    "colors": {
+      "title": "#FFFFFF",
+      "subtitle": "#8FA8C7",
+      "product_name": "#FFFFFF",
+      "product_subtitle": "#8FA8C7",
+      "product_border": "#00D9FF",
+      "product_accent": "#00D9FF",
+      "download_name": "#FFFFFF",
+      "download_subtitle": "#8FA8C7",
+      "download_border": "#00D9FF",
+      "download_accent": "#00D9FF",
+      "popup_title": "#FFFFFF",
+      "popup_subtitle": "#8FA8C7",
+      "popup_border": "#00D9FF",
+      "popup_accent": "#00D9FF",
+      "row_line": "#26313D"
+    },
+    "products": [
+      {
+        "name": "MIGUL - Monite iOS [PRO]",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "MIGUL - Monite iOS [PRO]",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Xreg iOS",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Xreg iOS",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Aimxxxx IOS",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Aimxxxx IOS",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "name": "Drip Wire iOS",
+        "subtitle": "",
+        "downloads": [
+          {
+            "name": "Drip Wire iOS",
+            "subtitle": "",
+            "link": "https://google.com"
+          }
+        ]
+      }
+    ]
+  },
+  "product_defaults": {
+    "subtitle": "TAP TO VIEW UPDATES",
+    "colors": {
+      "name": "#FFFFFF",
+      "subtitle": "#8FA8C7",
+      "border": "#00D9FF",
+      "accent": "#00D9FF"
+    }
+  },
+  "status_bar": {
+    "system": "SYSTEM",
+    "online": "ONLINE",
+    "offline": "OFFLINE",
+    "slow": "SLOW | SERVER RESPONSE",
+    "secure": "SECURE"
+  },
   "colors": {
     "main_button_text": "#FFFFFF",
     "status_system": "#FFFFFF",
@@ -18,366 +455,13 @@
     "network_dot_inactive": "#26313D",
     "network_dot_offline": "#FF3045"
   },
-  "updated_file_name": "TEST-999",
-  "update_message": "পাকুদাসা",
-  "download_link": "google.com",
-  "category_title": "SELECT CATEGORY",
-  "category_subtitle": "choose your item",
-  "category_config": {
-    "ios_title": "iOS",
-    "ios_subtitle": "Apple / iOS panel",
-    "ios_list_title": "iOS PANELL",
-    "root_title": "ROOT",
-    "root_subtitle": "Root PaneLl",
-    "root_list_title": "rooted panels",
-    "non_root_title": "NON ROOT",
-    "non_root_subtitle": "Non-root files",
-    "non_root_list_title": "NON ROOT PRODUCTS",
-    "setup_title": "SETUP TUTORIAL",
-    "setup_subtitle": "Open setup guide",
-    "setup_url": "https://whatsapp.com/channel/0029VbDy3YYAu3aPdtpF9G3n",
-    "ios_list_subtitle": "Tap a product to view its updates/files",
-    "root_list_subtitle": "Tap a product to view its updates/files",
-    "non_root_list_subtitle": "Tap a product to view its updates/files",
-    "product_row_subtitle": "TAP TO VIEW UPDATES"
-  },
-  "main_menu": {
-    "check_updates": "CHECK UPDATES",
-    "download_latest_files": "DOWNLOAD LATEST FILES",
-    "qr_code": "QR CODE",
-    "purchase_key_renew": "PURCHASE KEY & RENEW",
-    "purchase_key_url": "https://wa.me/918105914742",
-    "check_updates_enabled": true,
-    "download_latest_files_enabled": true,
-    "qr_code_enabled": true,
-    "purchase_key_renew_enabled": true
-  },
-  "root_items": [
-    {
-      "name": "Haxx Cker Pro - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Haxx Cker Pro - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        },
-        {
-          "title": "lol download",
-          "url": "https://google.com",
-          "subtitle": ""
-        },
-        {
-          "title": " হল download ",
-          "url": "https://google.com",
-          "subtitle": ""
-        },
-        {
-          "title": "প্ল্টি download ",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Drip Client - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Drip Client - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "HG - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "HG - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Br Mod - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Br Mod - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Angry Mod - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Angry Mod - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Silent xxxxxx Root - Safe",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Silent xxxxxx Root - Safe",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Rapid Core - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Rapid Core - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Rapid Core Brutal - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Rapid Core Brutal - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Unseen Mods - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Unseen Mods - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Xreg Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Xreg Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Crack Master - Root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Crack Master - Root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "New Root Item Name",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "New Root Item Name",
-          "url": "https://your-download-link.com",
-          "subtitle": ""
-        }
-      ]
-    }
-  ],
-  "non_root_items": [
-    {
-      "name": "ABCD Wire [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "ABCD Wire [Non Root]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Drip Wire [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Drip Wire [Non Root]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "AimHxxx[Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "AimHxxx[Non Root]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Proxy Silent chxxx [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Proxy Silent chxxx [Non Root]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Xreg ApkMod [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Xreg ApkMod [Non Root]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "HG [ Non Root ]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "HG [ Non Root ]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "ABCD Panel ApkMod [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "ABCD Panel ApkMod [Non Root]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "BalaMod Android [Non Root]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "BalaMod Android [Non Root]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Prime Hook - Non root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Prime Hook - Non root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Pato team non root",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Pato team non root",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    }
-  ],
-  "ios_items": [
-    {
-      "name": "MIGUL - Monite iOS [PRO]",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "MIGUL - Monite iOS [PRO]",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Xreg iOS",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Xreg iOS",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Aimxxxx IOS",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Aimxxxx IOS",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    },
-    {
-      "name": "Drip Wire iOS",
-      "subtitle": "",
-      "updates": [
-        {
-          "title": "Drip Wire iOS",
-          "url": "https://google.com",
-          "subtitle": ""
-        }
-      ]
-    }
-  ],
-  "status_bar": {
-    "system": "SYSTEM",
-    "online": "ONLINE",
-    "offline": "OFFLINE",
-    "slow": "SLOW | SERVER RESPONSE",
-    "secure": "SECURE"
-  },
-  "update_popup": {
-    "enabled": true,
-    "title": "NEW UPDATE AVAILABLE",
-    "close_text": "CLOSE",
-    "download_text": "DOWNLOAD NOW"
-  },
-  "checking_dialog": {
-    "title": "CHECKING FOR UPDATES",
-    "subtitle": "Please wait while checking for updates."
-  },
   "qr_popup": {
     "title": "PAYMENT QR",
     "hint": "Tap outside to close"
+  },
+  "update_data": {
+    "file_name": "TEST-999",
+    "message": "পাকুদাসা",
+    "download_link": "google.com"
   }
 }
