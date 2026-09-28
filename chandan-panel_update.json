@@ -1,6 +1,6 @@
 {
   "app_control": {
-    "status": "O",
+    "status": "C",
     "close_message": "APP IS CURRENTLY CLOSED. PLEASE TRY AGAIN LATER.",
     "maintenance_enabled": false,
     "maintenance_message": "APP IS UNDER MAINTENANCE. PLEASE TRY AGAIN LATER."
