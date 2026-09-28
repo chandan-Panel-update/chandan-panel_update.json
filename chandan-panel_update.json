@@ -5,25 +5,76 @@
     "maintenance_enabled": false,
     "maintenance_message": "APP IS UNDER MAINTENANCE. PLEASE TRY AGAIN LATER."
   },
-  "colors": {
-    "main_button_text": "#FFFFFF",
-    "status_system": "#FFFFFF",
-    "status_online": "#43F27C",
-    "status_offline": "#FF3045",
-    "status_slow": "#FFD23F",
-    "status_secure": "#FFFFFF",
-    "network_dot_1_3": "#FF9D2E",
-    "network_dot_4_6": "#FFD23F",
-    "network_dot_7_9": "#43F27C",
-    "network_dot_inactive": "#26313D",
-    "network_dot_offline": "#FF3045"
+  "main_screen": {
+    "buttons": [
+      {
+        "id": "check_updates",
+        "title": "CHECK UPDATES",
+        "subtitle": "",
+        "title_color": "#FFFFFF",
+        "subtitle_color": "#BBD0EA",
+        "enabled": true
+      },
+      {
+        "id": "download_latest_files",
+        "title": "DOWNLOAD LATEST FILES",
+        "subtitle": "",
+        "title_color": "#FFFFFF",
+        "subtitle_color": "#BBD0EA",
+        "enabled": true
+      },
+      {
+        "id": "qr_code",
+        "title": "QR CODE",
+        "subtitle": "",
+        "title_color": "#FFFFFF",
+        "subtitle_color": "#BBD0EA",
+        "enabled": true
+      },
+      {
+        "id": "purchase_key_renew",
+        "title": "PURCHASE KEY & RENEW",
+        "subtitle": "",
+        "title_color": "#FFFFFF",
+        "subtitle_color": "#BBD0EA",
+        "enabled": true,
+        "action_url": "https://wa.me/918105914742"
+      }
+    ]
   },
-  "updated_file_name": "TEST-999",
-  "update_message": "পাকুদাসা",
-  "download_link": "google.com",
-  "category_title": "SELECT CATEGORY",
-  "category_subtitle": "choose your item",
-  "category_config": {
+  "status_bar": {
+    "system_text": "SYSTEM",
+    "system_color": "#FFFFFF",
+    "online_text": "ONLINE",
+    "online_color": "#43F27C",
+    "offline_text": "OFFLINE",
+    "offline_color": "#FF3045",
+    "slow_text": "SLOW | SERVER RESPONSE",
+    "slow_color": "#FFD23F",
+    "secure_text": "SECURE",
+    "secure_color": "#FFFFFF",
+    "network_dots": {
+      "dot_1_color": "#FF9D2E",
+      "dot_2_color": "#FF9D2E",
+      "dot_3_color": "#FF9D2E",
+      "dot_4_color": "#FFD23F",
+      "dot_5_color": "#FFD23F",
+      "dot_6_color": "#FFD23F",
+      "dot_7_color": "#43F27C",
+      "dot_8_color": "#43F27C",
+      "dot_9_color": "#43F27C",
+      "inactive_color": "#26313D",
+      "offline_color": "#FF3045"
+    }
+  },
+  "update_check": {
+    "updated_file_name": "TEST-999",
+    "update_message": "পাকুদাসা",
+    "download_link": "google.com"
+  },
+  "category_screen": {
+    "title": "SELECT CATEGORY",
+    "subtitle": "choose your item",
     "ios_title": "iOS",
     "ios_subtitle": "Apple / iOS panel",
     "ios_list_title": "iOS PANELL",
@@ -40,17 +91,6 @@
     "root_list_subtitle": "Tap a product to view its updates/files",
     "non_root_list_subtitle": "Tap a product to view its updates/files",
     "product_row_subtitle": "TAP TO VIEW UPDATES"
-  },
-  "main_menu": {
-    "check_updates": "CHECK UPDATES",
-    "download_latest_files": "DOWNLOAD LATEST FILES",
-    "qr_code": "QR CODE",
-    "purchase_key_renew": "PURCHASE KEY & RENEW",
-    "purchase_key_url": "https://wa.me/918105914742",
-    "check_updates_enabled": true,
-    "download_latest_files_enabled": true,
-    "qr_code_enabled": true,
-    "purchase_key_renew_enabled": true
   },
   "root_items": [
     {
@@ -359,13 +399,6 @@
       ]
     }
   ],
-  "status_bar": {
-    "system": "SYSTEM",
-    "online": "ONLINE",
-    "offline": "OFFLINE",
-    "slow": "SLOW | SERVER RESPONSE",
-    "secure": "SECURE"
-  },
   "update_popup": {
     "enabled": true,
     "title": "NEW UPDATE AVAILABLE",
