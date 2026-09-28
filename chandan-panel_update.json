@@ -1,6 +1,6 @@
 {
   "app_control": {
-    "status": "O",
+    "status": "C",
     "close_message": "APP IS CURRENTLY CLOSED. PLEASE TRY AGAIN LATER.",
     "maintenance_enabled": false,
     "maintenance_message": "APP IS UNDER MAINTENANCE. PLEASE TRY AGAIN LATER."
@@ -43,7 +43,7 @@
     ]
   },
   "status_bar": {
-    "system_text": "SYSTEM",
+    "system_text": "STATUS",
     "system_color": "#FFFFFF",
     "online_text": "ONLINE",
     "online_color": "#43F27C",
